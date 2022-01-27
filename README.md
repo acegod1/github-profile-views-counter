@@ -7,23 +7,6 @@
 <a href="https://github.com/antonkomarev/github-profile-views-counter/blob/master/LICENSE"><img src="https://img.shields.io/github/license/antonkomarev/github-profile-views-counter.svg?style=flat-square" alt="License"></a>
 </p>
 
-## Introduction
-
-Try [Ÿ HŸPE] service as the more robust and feature rich solution.
-
-GHPVС project is proof of concept. This counter designed to be an analytical instrument for you, but not for people who are visiting your profile.
-It could be used to see profile views dynamics as result of development activity, blogging or taking part in a conference.
-
-It counts how many times your GitHub profile has been viewed and displays them in your profile, for free.
-
-![antonkomarev-profile-views-counter](https://user-images.githubusercontent.com/1849174/88077155-9ccc2400-cb83-11ea-8d9c-d18a8b1dc297.png)
-
-## Usage
-
-Cloud solution launched as 100% free experience. [Help me cut server costs] if you like this service.
-
-If you want to see big numbers in your profile, deploy a standalone solution to draw any views count you want
-without spamming our server. Everybody knows that any counters could be faked.
 
 > A billion fake profile views doesn't make you a very popular person, it makes you a person with a billion number in the counter.
 
